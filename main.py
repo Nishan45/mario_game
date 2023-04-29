@@ -1,3 +1,5 @@
+#press f in key board to shoot fire balls, left and right key for going left and right, up key for jump, s key for start
+
 import pygame,sys
 import player
 import levels
